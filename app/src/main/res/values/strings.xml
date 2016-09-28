@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">我来斗地主</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_loading">LoadingActivity</string>
+    <string name="loading_voice_enable">音效：打开</string>
+    <string name="loading_voice_disable">音效：关闭</string>
+    <string name="loading_start_game">开始游戏</string>
+    <string name="loading_bluetooth_game">联机对战</string>
+    <string name="default_loading_bluetooth_game_title">联机对战</string>
+    <string name="default_share_content">由于代码复用需要调整该功能开发中！！</string>
+    <string name="about_game">
+        1.本游戏属于单机斗地主，虽然更能还不完善，但大多数算法都完成。\n
+        2.部分AI正则表达式有问题，比如三带对无法带大的副牌以及机器不会识别地主与队友，只要有牌就出的bug！！\n
+        3.本来想加入蓝牙联机功能，但是代码结构需要更改工作量大，并且没有足够的测试，但是蓝牙和网络对战在逐步开发中。</string>
+
+</resources>

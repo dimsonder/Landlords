@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="F:\workspace\AndroidStudioProjects\Landlords\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_6c2a284fdd61d0d8ac24aa3991d9cfbc35ef85c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\workspace\AndroidStudioProjects\Landlords\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="F:\workspace\AndroidStudioProjects\Landlords\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_9901c8cd90257c6e8ca6306fccaa92962cacc495\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\workspace\AndroidStudioProjects\Landlords\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="F:\workspace\AndroidStudioProjects\Landlords\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_787db34dbee6ee740ccd2fe28abbbe1779913141\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\workspace\AndroidStudioProjects\Landlords\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="F:\workspace\AndroidStudioProjects\Landlords\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_aa43ba6798c5569962944b37aed8143645211a84\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\workspace\AndroidStudioProjects\Landlords\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ae6d2a1a06cde3b4cac10277e1976ab1f70b52ca">
+        <dex dex="F:\workspace\AndroidStudioProjects\Landlords\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5e1e6bc44990dda5d04347f0af76c57bdd33e165\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\workspace\AndroidStudioProjects\Landlords\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="F:\workspace\AndroidStudioProjects\Landlords\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_b3d40167c1c55a81e9da83757307110d9af82756\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\workspace\AndroidStudioProjects\Landlords\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d3f73b634b1617a1ecf8956dde1a5493430f545d">
+        <dex dex="F:\workspace\AndroidStudioProjects\Landlords\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_894897c8a87cef2ffe5ba90e65fb846b3cd01713\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\workspace\AndroidStudioProjects\Landlords\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="F:\workspace\AndroidStudioProjects\Landlords\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_0ab6d8b2350e2a435d6633bf1cb21a09bf0b29d6\classes.dex" />
+    </item>
+
+</items>

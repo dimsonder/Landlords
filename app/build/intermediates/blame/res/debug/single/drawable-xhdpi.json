@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "F:\\workspace\\AndroidStudioProjects\\Landlords\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bak_table2.png",
+        "source": "F:\\workspace\\AndroidStudioProjects\\Landlords\\app\\src\\main\\res\\drawable-xhdpi\\bak_table2.png"
+    },
+    {
+        "merged": "F:\\workspace\\AndroidStudioProjects\\Landlords\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\back.png",
+        "source": "F:\\workspace\\AndroidStudioProjects\\Landlords\\app\\src\\main\\res\\drawable-xhdpi\\back.png"
+    },
+    {
+        "merged": "F:\\workspace\\AndroidStudioProjects\\Landlords\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\exit_pressed.png",
+        "source": "F:\\workspace\\AndroidStudioProjects\\Landlords\\app\\src\\main\\res\\drawable-xhdpi\\exit_pressed.png"
+    },
+    {
+        "merged": "F:\\workspace\\AndroidStudioProjects\\Landlords\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bak_table3.png",
+        "source": "F:\\workspace\\AndroidStudioProjects\\Landlords\\app\\src\\main\\res\\drawable-xhdpi\\bak_table3.png"
+    },
+    {
+        "merged": "F:\\workspace\\AndroidStudioProjects\\Landlords\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "F:\\workspace\\AndroidStudioProjects\\Landlords\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\workspace\\AndroidStudioProjects\\Landlords\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\exit.png",
+        "source": "F:\\workspace\\AndroidStudioProjects\\Landlords\\app\\src\\main\\res\\drawable-xhdpi\\exit.png"
+    },
+    {
+        "merged": "F:\\workspace\\AndroidStudioProjects\\Landlords\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\about.png",
+        "source": "F:\\workspace\\AndroidStudioProjects\\Landlords\\app\\src\\main\\res\\drawable-xhdpi\\about.png"
+    },
+    {
+        "merged": "F:\\workspace\\AndroidStudioProjects\\Landlords\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\lose.png",
+        "source": "F:\\workspace\\AndroidStudioProjects\\Landlords\\app\\src\\main\\res\\drawable-xhdpi\\lose.png"
+    },
+    {
+        "merged": "F:\\workspace\\AndroidStudioProjects\\Landlords\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\restart.png",
+        "source": "F:\\workspace\\AndroidStudioProjects\\Landlords\\app\\src\\main\\res\\drawable-xhdpi\\restart.png"
+    },
+    {
+        "merged": "F:\\workspace\\AndroidStudioProjects\\Landlords\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bkg_btn_normal.png",
+        "source": "F:\\workspace\\AndroidStudioProjects\\Landlords\\app\\src\\main\\res\\drawable-xhdpi\\bkg_btn_normal.png"
+    },
+    {
+        "merged": "F:\\workspace\\AndroidStudioProjects\\Landlords\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\win.png",
+        "source": "F:\\workspace\\AndroidStudioProjects\\Landlords\\app\\src\\main\\res\\drawable-xhdpi\\win.png"
+    },
+    {
+        "merged": "F:\\workspace\\AndroidStudioProjects\\Landlords\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\restart_pressed.png",
+        "source": "F:\\workspace\\AndroidStudioProjects\\Landlords\\app\\src\\main\\res\\drawable-xhdpi\\restart_pressed.png"
+    },
+    {
+        "merged": "F:\\workspace\\AndroidStudioProjects\\Landlords\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bkg_table.png",
+        "source": "F:\\workspace\\AndroidStudioProjects\\Landlords\\app\\src\\main\\res\\drawable-xhdpi\\bkg_table.png"
+    }
+]

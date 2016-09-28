@@ -1,0 +1,59 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bak_table2"
+    tools:context="${relativePackage}.${activityClass}" >
+
+
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_centerHorizontal="true"
+        android:paddingTop="150dp" >
+
+        <ProgressBar
+            android:id="@+id/loading_prg"
+            style="@android:style/Widget.ProgressBar.Horizontal"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:max="100" />
+
+        <LinearLayout
+
+            android:id="@+id/loading_ll_btns"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="invisible">
+
+            <ToggleButton
+                android:id="@+id/loading_tgb_voice"
+                style="@style/LoadingMenuBtn"
+                android:textOff="@string/loading_voice_disable"
+                android:textOn="@string/loading_voice_enable"
+                android:checked="true" />
+
+            <Button
+                android:id="@+id/loading_btn_startgame"
+                style="@style/LoadingMenuBtn"
+                android:text="@string/loading_start_game" />
+<!--
+            <Button
+                android:id="@+id/bluetooth_game"
+                style="@style/LoadingMenuBtn"
+                android:text="@string/loading_bluetooth_game" />-->
+        </LinearLayout>
+    </FrameLayout>
+    <ImageButton
+        android:id="@+id/about"
+        android:onClick="onClick"
+       android:layout_alignParentBottom="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginBottom="20dp"
+        android:background="@drawable/about"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</RelativeLayout>
